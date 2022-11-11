@@ -7,10 +7,9 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=seddonshen.visitor-badge)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p>
-  <img src="https://api.githubtrends.io/user/svg/seddonshen/langs?time_range=one_year&theme=classic" />
-  <img src="https://api.githubtrends.io/user/svg/seddonshen/repos?time_range=one_year&theme=classic" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seddonshen&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" />
 </p>
 <!---
