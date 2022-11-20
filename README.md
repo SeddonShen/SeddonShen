@@ -7,16 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 October 2022 - To: 17 November 2022
+From: 19 October 2022 - To: 18 November 2022
 
-Total Time: 68 hrs 39 mins
+Total Time: 70 hrs 51 mins
 
-Python       31 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.16 %
-V            16 hrs 13 mins  ██████░░░░░░░░░░░░░░░░░░░   23.64 %
-Scala        7 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Vue.js       5 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-HTML         1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Markdown     1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Python       31 hrs 45 mins  ███████████▒░░░░░░░░░░░░░   44.81 %
+V            16 hrs 13 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+Scala        7 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Vue.js       5 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+HTML         1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Other        1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
