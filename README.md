@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 October 2022 - To: 28 November 2022
+From: 30 October 2022 - To: 29 November 2022
 
-Total Time: 76 hrs 36 mins
+Total Time: 76 hrs 11 mins
 
-Python       31 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   40.57 %
-Scala        24 hrs 11 mins  ████████░░░░░░░░░░░░░░░░░   31.57 %
-V            7 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Vue.js       6 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Other        1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Python       30 hrs 47 mins  ██████████░░░░░░░░░░░░░░░   40.42 %
+Scala        24 hrs 11 mins  ████████░░░░░░░░░░░░░░░░░   31.75 %
+V            7 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Vue.js       6 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Other        1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
