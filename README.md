@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 10 December 2022
+From: 12 November 2022 - To: 12 December 2022
 
-Total Time: 43 hrs 12 mins
+Total Time: 49 hrs 38 mins
 
-Scala        29 hrs 36 mins  █████████████████░░░░░░░░   68.52 %
-Python       5 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Other        3 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Scala        34 hrs 7 mins   █████████████████▒░░░░░░░   68.74 %
+Python       5 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Other        5 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 ```
 
 <!--END_SECTION:waka-->
