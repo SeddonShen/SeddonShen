@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 18 December 2022
+From: 19 November 2022 - To: 19 December 2022
 
-Total Time: 51 hrs 39 mins
+Total Time: 50 hrs 39 mins
 
-Scala        33 hrs 22 mins  ████████████████░░░░░░░░░   64.62 %
-Other        7 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Scala        31 hrs 51 mins  ███████████████▓░░░░░░░░░   62.88 %
+Other        7 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
 ```
 
 <!--END_SECTION:waka-->
