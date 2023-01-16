@@ -17,7 +17,7 @@ Other        11 hrs 24 mins  ████████░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+![WakaTime Daily](https://wakatime.com/share/@seddon2001/61a7e342-5f12-4fea-bf92-1fac161e97d6.svg)
 <!---
 SeddonShen/SeddonShen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
