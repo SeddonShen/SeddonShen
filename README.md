@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 29 January 2023
+From: 31 December 2022 - To: 30 January 2023
 
-Total Time: 18 hrs 3 mins
+Total Time: 18 hrs 25 mins
 
-Scala      10 hrs 9 mins   ██████████████░░░░░░░░░░░   56.32 %
-Other      4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+Scala      10 hrs 9 mins   █████████████▓░░░░░░░░░░░   55.16 %
+Other      4 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 %
 ```
 
 <!--END_SECTION:waka-->
