@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @SeddonShen
+### 👋 Hi, I’m @SeddonShen
 - 📫 A student in NWPU,Xi'an China.
-- Want to learn something.I hope I can.
+- Want to learn something.
 
+#### Technologies:
+
+![skills](https://skillicons.dev/icons?i=scala,js,html,css,bootstrap,jquery,c,cpp,cloudflare,django,docker,flask,git,github,githubactions,linux,latex,mysql,nodejs,ps,php,pr,py,raspberrypi,redis,unreal,v,vscode,vue,bash)
+
+#### Monthly Coding:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=seddonshen&show_icons=true&locale=en&layout=compact&hide=html&langs_count=8)](https://github.com/SeddonShen/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeddonShen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
