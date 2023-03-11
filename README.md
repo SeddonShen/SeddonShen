@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 08 March 2023
+From: 07 February 2023 - To: 09 March 2023
 
-Total Time: 102 hrs 48 mins
+Total Time: 99 hrs 13 mins
 
-Scala         49 hrs 56 mins  ████████████░░░░░░░░░░░░░   48.57 %
-sh            18 hrs 43 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-Other         16 hrs 48 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Scala         48 hrs 22 mins  ████████████▒░░░░░░░░░░░░   48.76 %
+sh            18 hrs 49 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Other         14 hrs 41 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
 ```
 
 <!--END_SECTION:waka-->
