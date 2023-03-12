@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SeddonShen.SeddonShen&left_color=red&right_color=green) 
 ### 👋 Hi, I’m @SeddonShen
 - 📫 A student in NWPU,Xi'an China.
 - Want to learn something.
