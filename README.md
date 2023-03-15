@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @SeddonShen
-- 📫 A student in NWPU,Xi'an China.
+- A student in NWPU,Xi'an China.
 - Want to learn something.
+- 📫 You can contact me at seddonshen2001@gmail.com
 
 #### Technologies:
 
