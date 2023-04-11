@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 08 April 2023
+From: 10 March 2023 - To: 09 April 2023
 
-Total Time: 96 hrs 15 mins
+Total Time: 98 hrs 43 mins
 
-Scala         47 hrs 25 mins  ████████████▒░░░░░░░░░░░░   49.26 %
-sh            20 hrs 40 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-Text          9 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Other         7 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Scala         50 hrs 25 mins  ████████████▓░░░░░░░░░░░░   51.07 %
+sh            20 hrs 14 mins  █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+Text          10 hrs 16 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Other         7 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
