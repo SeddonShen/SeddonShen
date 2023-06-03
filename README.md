@@ -12,16 +12,16 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeddonShen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 37 hrs 6 mins
+Total Time: 40 hrs 20 mins
 
-Scala        14 hrs 54 mins  ██████████░░░░░░░░░░░░░░░   40.17 %
-Python       10 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
-Other        4 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Text         2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-sh           1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Scala        17 hrs 27 mins  ██████████▓░░░░░░░░░░░░░░   43.27 %
+Python       10 hrs 20 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+Other        5 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Text         3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+sh           1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
