@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2023 - To: 16 June 2023
+From: 18 May 2023 - To: 17 June 2023
 
-Total Time: 22 hrs 3 mins
+Total Time: 22 hrs 36 mins
 
-Python       8 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
-Scala        6 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-Text         3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-sh           1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Bash         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python       8 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   39.13 %
+Scala        7 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   32.97 %
+Text         3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+sh           1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Bash         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
