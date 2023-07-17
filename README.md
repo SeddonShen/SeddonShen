@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 14 July 2023
+From: 15 June 2023 - To: 15 July 2023
 
-Total Time: 11 hrs 6 mins
+Total Time: 11 hrs 5 mins
 
-sh         6 hrs 54 mins   ███████████████▓░░░░░░░░░   62.27 %
-Bash       1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+sh         6 hrs 54 mins   ███████████████▓░░░░░░░░░   62.23 %
+Bash       1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
 Scala      54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 CMake      23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 C++        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
