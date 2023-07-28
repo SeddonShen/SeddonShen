@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 25 July 2023
+From: 26 June 2023 - To: 26 July 2023
 
-Total Time: 5 mins
+Total Time: 12 mins
 
-Scala   3 mins          ██████████████░░░░░░░░░░░   56.60 %
-sh      2 mins          ███████████░░░░░░░░░░░░░░   43.40 %
+sh      9 mins          ███████████████████░░░░░░   76.26 %
+Scala   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
 ```
 
 <!--END_SECTION:waka-->
