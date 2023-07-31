@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2023 - To: 28 July 2023
+From: 29 June 2023 - To: 29 July 2023
 
-Total Time: 9 mins
+Total Time: 54 mins
 
-sh   9 mins          █████████████████████████   100.00 %
+sh     39 mins         █████████████████▓░░░░░░░   71.33 %
+Bash   15 mins         ███████░░░░░░░░░░░░░░░░░░   28.30 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
