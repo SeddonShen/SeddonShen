@@ -12,13 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2023 - To: 07 August 2023
+From: 09 July 2023 - To: 08 August 2023
 
-Total Time: 1 hr 1 min
+Total Time: 1 hr 3 mins
 
-sh     42 mins         █████████████████▒░░░░░░░   69.47 %
-Bash   18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.20 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+sh      42 mins         ████████████████▓░░░░░░░░   66.43 %
+Bash    18 mins         ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Scala   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
