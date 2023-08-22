@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2023 - To: 19 August 2023
+From: 21 July 2023 - To: 20 August 2023
 
-Total Time: 3 hrs 13 mins
+Total Time: 3 hrs 28 mins
 
-Markdown     1 hr 55 mins    ███████████████░░░░░░░░░░   59.78 %
-sh           48 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-Bash         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Scala        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Ezhil        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown     1 hr 55 mins    ██████████████░░░░░░░░░░░   55.62 %
+sh           48 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+Scala        21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Bash         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Ezhil        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
