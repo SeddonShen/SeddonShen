@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 28 August 2023
+From: 30 July 2023 - To: 29 August 2023
 
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 42 mins
 
-Markdown        1 hr 55 mins    ██████████████▓░░░░░░░░░░   58.22 %
-Scala           44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-sh              13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-SystemVerilog   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-V               6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Markdown        1 hr 55 mins    █████████████░░░░░░░░░░░░   52.07 %
+Scala           44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Python          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+SystemVerilog   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+sh              14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
 
 <!--END_SECTION:waka-->
