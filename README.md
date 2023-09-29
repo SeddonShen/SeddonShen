@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2023 - To: 25 September 2023
+From: 28 August 2023 - To: 27 September 2023
 
-Total Time: 18 hrs 59 mins
+Total Time: 20 hrs 56 mins
 
-Scala            7 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.89 %
-sh               5 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Python           1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Other            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-ca65 assembler   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Scala            7 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.99 %
+sh               7 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.59 %
+Python           1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Other            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+ca65 assembler   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
