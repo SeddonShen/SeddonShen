@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 19 October 2023
+From: 20 September 2023 - To: 20 October 2023
 
-Total Time: 13 hrs 6 mins
+Total Time: 15 hrs 24 mins
 
-sh               7 hrs 9 mins    █████████████▓░░░░░░░░░░░   54.61 %
-C                1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Scala            46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Bash             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-YAML             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+sh               7 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   47.05 %
+Scala            2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+C                1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Bash             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+YAML             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
