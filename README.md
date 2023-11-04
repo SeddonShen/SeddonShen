@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 01 November 2023
+From: 03 October 2023 - To: 02 November 2023
 
-Total Time: 38 hrs 32 mins
+Total Time: 43 hrs 41 mins
 
-Scala            13 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.59 %
-C++              7 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-Bash             3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Python           3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-C                2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Scala            14 hrs 48 mins  ████████▒░░░░░░░░░░░░░░░░   33.90 %
+C++              9 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+Bash             3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Python           3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+C                2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
