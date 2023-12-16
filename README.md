@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 13 December 2023
+From: 14 November 2023 - To: 14 December 2023
 
-Total Time: 49 hrs 18 mins
+Total Time: 49 hrs 29 mins
 
-C++                30 hrs 9 mins   ███████████████▒░░░░░░░░░   61.16 %
-C                  7 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-sh                 3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown           1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-CMake              1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+C++                30 hrs 9 mins   ███████████████▒░░░░░░░░░   60.94 %
+C                  7 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+sh                 3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Markdown           1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+CMake              1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
