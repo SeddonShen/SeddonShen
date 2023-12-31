@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2023 - To: 28 December 2023
+From: 29 November 2023 - To: 29 December 2023
 
-Total Time: 14 hrs 24 mins
+Total Time: 14 hrs 15 mins
 
-sh                 4 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
-C++                4 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-Scala              2 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-C                  31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Markdown           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+sh                 4 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   32.60 %
+C++                4 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.86 %
+Scala              2 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+C                  31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Markdown           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
