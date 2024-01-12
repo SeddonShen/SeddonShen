@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 09 January 2024
+From: 11 December 2023 - To: 10 January 2024
 
-Total Time: 18 hrs 52 mins
+Total Time: 19 hrs 26 mins
 
-Scala              11 hrs 23 mins  ███████████████░░░░░░░░░░   60.37 %
-sh                 4 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-Other              1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-C++                47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-CMake              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Scala              11 hrs 23 mins  ██████████████▓░░░░░░░░░░   58.61 %
+sh                 5 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+Other              1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+C++                1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+CMake              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
