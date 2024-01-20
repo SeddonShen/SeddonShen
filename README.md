@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 17 January 2024
+From: 19 December 2023 - To: 18 January 2024
 
-Total Time: 15 hrs 57 mins
+Total Time: 12 hrs 1 min
 
-Scala        11 hrs 21 mins  █████████████████▓░░░░░░░   71.18 %
-sh           2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Other        1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Isabelle     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-C++          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Scala        8 hrs 50 mins   ██████████████████▒░░░░░░   73.55 %
+Other        1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+sh           59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Isabelle     34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+C++          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
