@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 08 February 2024
+From: 10 January 2024 - To: 09 February 2024
 
-Total Time: 5 hrs 40 mins
+Total Time: 5 hrs 6 mins
 
-Isabelle     52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Makefile     50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Markdown     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-sh           34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Isabelle     52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Makefile     49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Markdown     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+JSON         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+YAML         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 ```
 
 <!--END_SECTION:waka-->
