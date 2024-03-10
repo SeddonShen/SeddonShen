@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 07 March 2024
+From: 07 February 2024 - To: 08 March 2024
 
-Total Time: 4 hrs 44 mins
+Total Time: 6 hrs
 
-sh           1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-Docker       51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Markdown     41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-XML          31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Makefile     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+sh           1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Docker       1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Makefile     45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Markdown     41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+C++          32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
