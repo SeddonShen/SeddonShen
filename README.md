@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 04 April 2024
+From: 06 March 2024 - To: 05 April 2024
 
-Total Time: 47 hrs 38 mins
+Total Time: 45 hrs 29 mins
 
-C++             12 hrs 23 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Scala           9 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-sh              9 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Python          3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Makefile        2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+C++             12 hrs 23 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Scala           9 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+sh              8 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Python          3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Makefile        2 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
