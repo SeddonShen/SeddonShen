@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 04 June 2024
+From: 06 May 2024 - To: 05 June 2024
 
-Total Time: 23 hrs 57 mins
+Total Time: 11 hrs 48 mins
 
-sh              5 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Other           4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-SystemVerilog   4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Scala           2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-TeX             1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+sh           4 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.99 %
+Other        2 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+TeX          1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Python       1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Docker       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
