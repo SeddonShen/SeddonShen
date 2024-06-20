@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 17 June 2024
+From: 19 May 2024 - To: 18 June 2024
 
-Total Time: 7 hrs 15 mins
+Total Time: 8 hrs 12 mins
 
-sh           2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.62 %
-Other        2 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   35.48 %
-Docker       45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Python       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+sh           2 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   35.07 %
+Other        2 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.32 %
+V            1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Docker       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
