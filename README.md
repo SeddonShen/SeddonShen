@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 29 June 2024
+From: 31 May 2024 - To: 30 June 2024
 
-Total Time: 6 hrs 2 mins
+Total Time: 5 hrs 51 mins
 
-sh                 1 hr 44 mins    ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Scala              1 hr 32 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-V                  1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Markdown           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Java Properties    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+sh                 1 hr 33 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
+Scala              1 hr 32 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+V                  1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+Markdown           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Java Properties    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
