@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 04 July 2024
+From: 05 June 2024 - To: 05 July 2024
 
-Total Time: 9 hrs 1 min
+Total Time: 9 hrs
 
-Scala              2 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 %
-sh                 1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Scala              2 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+sh                 1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
 Markdown           1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-V                  1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+V                  1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
 Other              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
