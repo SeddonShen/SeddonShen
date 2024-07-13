@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 10 July 2024
+From: 11 June 2024 - To: 11 July 2024
 
-Total Time: 9 hrs 48 mins
+Total Time: 13 hrs 23 mins
 
-Scala              2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-sh                 1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Markdown           1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-V                  1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-TeX                39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+sh                 3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+Scala              2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Markdown           1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Python             1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+V                  1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
 ```
 
 <!--END_SECTION:waka-->
