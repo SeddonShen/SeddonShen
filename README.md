@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 19 July 2024
+From: 20 June 2024 - To: 20 July 2024
 
-Total Time: 20 hrs 19 mins
+Total Time: 23 hrs 35 mins
 
-sh                 4 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Scala              2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Python             1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Markdown           1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Other              1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+sh                 4 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+Scala              2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Other              2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+C++                2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Markdown           1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
 
 <!--END_SECTION:waka-->
