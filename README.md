@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 30 July 2024
+From: 01 July 2024 - To: 31 July 2024
 
-Total Time: 39 hrs 32 mins
+Total Time: 40 hrs
 
-sh                9 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-Scala             8 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-Other             3 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Python            3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-SystemVerilog     2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+sh                10 hrs 13 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Scala             8 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Other             4 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Python            3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+SystemVerilog     2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
