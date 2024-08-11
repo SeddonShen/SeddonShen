@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 08 August 2024
+From: 10 July 2024 - To: 09 August 2024
 
-Total Time: 47 hrs 44 mins
+Total Time: 47 hrs 43 mins
 
-sh                13 hrs 21 mins  ███████░░░░░░░░░░░░░░░░░░   27.99 %
+sh                13 hrs 21 mins  ███████░░░░░░░░░░░░░░░░░░   27.98 %
 Scala             13 hrs 7 mins   ███████░░░░░░░░░░░░░░░░░░   27.48 %
 Other             5 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
 Python            3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
