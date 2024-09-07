@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2024 - To: 04 September 2024
+From: 06 August 2024 - To: 05 September 2024
 
-Total Time: 120 hrs 43 mins
+Total Time: 120 hrs 25 mins
 
-Scala            44 hrs 36 mins  █████████▒░░░░░░░░░░░░░░░   36.96 %
-Other            16 hrs 46 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-sh               15 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-SystemVerilog    9 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-C++              9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Scala            44 hrs 26 mins  █████████▒░░░░░░░░░░░░░░░   36.90 %
+Other            16 hrs 46 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+sh               15 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+SystemVerilog    9 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+C++              9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->
