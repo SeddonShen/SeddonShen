@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2024 - To: 27 September 2024
+From: 29 August 2024 - To: 28 September 2024
 
-Total Time: 57 hrs 53 mins
+Total Time: 55 hrs 55 mins
 
-Scala           11 hrs 15 mins  █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Other           10 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-sh              5 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Python          5 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JavaScript      5 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Other           10 hrs 32 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Scala           10 hrs 27 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+sh              5 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Python          5 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JavaScript      5 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
