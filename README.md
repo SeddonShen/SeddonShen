@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 18 December 2024
+From: 20 November 2024 - To: 20 December 2024
 
-Total Time: 12 hrs 4 mins
+Total Time: 10 hrs
 
-sh              3 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-Scala           2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-SystemVerilog   1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Markdown        1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-V               46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+sh              3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+Scala           2 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Markdown        1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+V               46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+BibTeX          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
