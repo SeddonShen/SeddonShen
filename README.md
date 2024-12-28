@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 25 December 2024
+From: 26 November 2024 - To: 26 December 2024
 
-Total Time: 9 hrs 42 mins
+Total Time: 9 hrs 14 mins
 
-sh            2 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Scala         2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-Markdown      1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-V             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-BibTeX        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+sh            2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
+Scala         2 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+Markdown      1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+V             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+BibTeX        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
