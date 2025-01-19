@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 16 January 2025
+From: 18 December 2024 - To: 17 January 2025
 
-Total Time: 20 hrs 59 mins
+Total Time: 20 hrs 52 mins
 
-Scala              12 hrs 40 mins  ███████████████░░░░░░░░░░   60.37 %
-sh                 1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Markdown           1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Other              1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Makefile           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Scala              12 hrs 50 mins  ███████████████▒░░░░░░░░░   61.48 %
+Other              1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Markdown           1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+sh                 1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Makefile           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
