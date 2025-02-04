@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 01 February 2025
+From: 03 January 2025 - To: 02 February 2025
 
-Total Time: 26 hrs 54 mins
+Total Time: 24 hrs 14 mins
 
-Scala              16 hrs 23 mins  ███████████████▒░░░░░░░░░   60.94 %
-Makefile           2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Markdown           2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Other              1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-sh                 1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Scala              15 hrs 48 mins  ████████████████▒░░░░░░░░   65.27 %
+Makefile           2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Other              1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Markdown           1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+sh                 1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
