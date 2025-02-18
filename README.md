@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 15 February 2025
+From: 17 January 2025 - To: 16 February 2025
 
-Total Time: 14 hrs 55 mins
+Total Time: 15 hrs 40 mins
 
-Scala           4 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Python          3 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-sh              2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-Makefile        1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Markdown        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Scala           4 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.44 %
+Python          3 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+sh              2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Makefile        1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+C++             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
