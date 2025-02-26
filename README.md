@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 23 February 2025
+From: 25 January 2025 - To: 24 February 2025
 
-Total Time: 18 hrs 47 mins
+Total Time: 20 hrs 38 mins
 
-Scala          6 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   36.97 %
-Python         3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
-sh             2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Other          1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Text           1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Scala          8 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   43.25 %
+Python         3 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+sh             1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Other          1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Text           1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
