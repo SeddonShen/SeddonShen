@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 29 March 2025
+From: 28 February 2025 - To: 30 March 2025
 
-Total Time: 49 hrs 53 mins
+Total Time: 48 hrs
 
-Other              13 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-TeX                11 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Python             7 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-SystemVerilog      5 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-V                  4 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+TeX                12 hrs 18 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Other              12 hrs 15 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+Python             7 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+SystemVerilog      4 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+V                  3 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
