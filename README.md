@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 02 April 2025
+From: 04 March 2025 - To: 03 April 2025
 
 Total Time: 46 hrs 33 mins
 
 TeX                13 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-Other              10 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Other              10 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
 Python             8 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
 SystemVerilog      4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
 V                  3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
