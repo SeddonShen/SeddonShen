@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 22 June 2025
+From: 24 May 2025 - To: 23 June 2025
 
-Total Time: 45 hrs 17 mins
+Total Time: 42 hrs 42 mins
 
-Scala                        9 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-SystemVerilog                7 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Text                         5 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Other                        5 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Python                       3 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Scala                        9 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+SystemVerilog                7 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+Text                         5 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Other                        5 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Python                       3 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
 ```
 
 <!--END_SECTION:waka-->
