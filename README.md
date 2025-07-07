@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 04 July 2025
+From: 05 June 2025 - To: 05 July 2025
 
-Total Time: 7 hrs 55 mins
+Total Time: 7 hrs 22 mins
 
-Markdown        3 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.57 %
-TOML            57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Text            57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-sh              53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-SystemVerilog   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown        3 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   44.68 %
+TOML            57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Text            55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+sh              43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+YAML            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
