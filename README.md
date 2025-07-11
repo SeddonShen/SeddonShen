@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 08 July 2025
+From: 09 June 2025 - To: 09 July 2025
 
-Total Time: 3 hrs 21 mins
+Total Time: 3 hrs 52 mins
 
-Markdown     1 hr 51 mins    ██████████████░░░░░░░░░░░   55.58 %
-sh           1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-Python       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-BibTeX       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Scala        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Markdown     2 hrs           █████████████░░░░░░░░░░░░   51.90 %
+sh           1 hr 21 mins    ████████▓░░░░░░░░░░░░░░░░   35.17 %
+Python       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+BibTeX       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Scala        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
