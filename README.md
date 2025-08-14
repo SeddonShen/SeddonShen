@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2025 - To: 11 August 2025
+From: 13 July 2025 - To: 12 August 2025
 
-Total Time: 7 hrs 3 mins
+Total Time: 7 hrs 9 mins
 
-sh           3 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.90 %
-Slurm        1 hr 33 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Python       1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+sh           3 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.49 %
+Slurm        1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Python       1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Other        35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
