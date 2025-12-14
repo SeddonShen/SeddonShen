@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @SeddonShen
 - Want to learn something.
 - 📫 You can contact me at seddonshen2001@gmail.com
-- Blog: [Seddon's Blog](https://seddonshen.github.io/)
+- Blog: [Seddon's Blog](https://seddon.icu/)
 - HomePage: [Seddon's Homepage](https://seddonshen.github.io/)
 
 #### Technologies:
