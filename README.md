@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 07 March 2026
+From: 06 February 2026 - To: 08 March 2026
 
-Total Time: 75 hrs 17 mins
+Total Time: 78 hrs 15 mins
 
-TeX                46 hrs 30 mins        ███████████████▒░░░░░░░░░   61.76 %
-sh                 6 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Markdown           5 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-SystemVerilog      3 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-FIRRTL             2 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+TeX                49 hrs 30 mins        ███████████████▓░░░░░░░░░   63.25 %
+sh                 6 hrs 56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Markdown           5 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+SystemVerilog      3 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+FIRRTL             2 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
