@@ -14,15 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 25 September 2026
+From: 28 August 2026 - To: 27 September 2026
 
-Total Time: 11 hrs 8 mins
+Total Time: 13 hrs 59 mins
 
-Other        9 hrs 4 mins          ████████████████████▒░░░░   81.42 %
-sh           1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Markdown     52 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-SSH Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other   13 hrs 30 mins        ████████████████████████░   96.57 %
+sh      28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
