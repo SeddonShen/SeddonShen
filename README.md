@@ -14,12 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 04 October 2026
+From: 05 September 2026 - To: 05 October 2026
 
-Total Time: 29 mins
+Total Time: 7 hrs 1 min
 
-sh      18 mins               ███████████████▒░░░░░░░░░   61.32 %
-Other   11 mins               █████████▓░░░░░░░░░░░░░░░   38.68 %
+HTML          3 hrs 59 mins         ██████████████▒░░░░░░░░░░   56.87 %
+Other         1 hr 20 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+Python        1 hr                  ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+sh            24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Image (png)   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
